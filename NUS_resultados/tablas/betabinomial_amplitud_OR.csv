@@ -1,0 +1,12 @@
+"effect","component","term","estimate","std.error","statistic","p.value","conf.low","conf.high"
+"fixed","cond","(Intercept)",2.11087897076184,NA,NA,NA,NA,NA
+"fixed","cond","biocultureMojocoya",0.61306065210048,NA,NA,NA,NA,NA
+"fixed","cond","age_z",0.998091235670064,NA,NA,NA,NA,NA
+"fixed","cond","sexMale",1.35436715512407,NA,NA,NA,NA,NA
+"fixed","cond","educationPrimary",0.756940822408263,NA,NA,NA,NA,NA
+"fixed","cond","educationProfessional",1.09138465312992,NA,NA,NA,NA,NA
+"fixed","cond","educationSecondary",0.685332580953213,NA,NA,NA,NA,NA
+"fixed","cond","has_garden_bin",0.818356240126174,NA,NA,NA,NA,NA
+"fixed","cond","has_interest_nus_z",0.969419128001855,NA,NA,NA,NA,NA
+"fixed","cond","cultural_revaluation_z",0.927168935077366,NA,NA,NA,NA,NA
+"fixed","cond","institutional_promotion_z",1.16227809331397,NA,NA,NA,NA,NA

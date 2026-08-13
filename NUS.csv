@@ -1,0 +1,901 @@
+Name;bioculture;Bithplace;Community;Education;Age;Sex;Family_size;Has_garden;Garden_caregiver;No_nutritional_issues;State_lack_support;No_interest_NUS;Lack_of_time;Has_interest_NUS;Willing_to_grow_NUS;Cultural_revaluation;Institutional_promotion;Plant_name;Species;Status;Knows_plant;Willing_to_cultivate;Perceived_as_weed;Lack_of_knowledge_benefits;Seed_scarcity;Loss_of_knowledge;Loss_of_culinary_tradition;Sensory_rejection;Climate_limitation;Water_scarcity;Space_limitation;Nutritional_value;Medicinal_value;Climate_advantage;Economic_savings;Commercial_opportunity;Biological_pest_control;Soil_improvement;Limited_availability;Ease_of_cultivation
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;3;3;1;2;-3;2
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-1;-2;-2;-2;-2;-2;-2;-3;0;0;0;0;0;0;0;0;0
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;3;3;2;1;-3;3
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;1;2;1;2;-2;-2;0;2;0;0;0;0;0;0;0;0;0
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;-3;-2;-2;-3;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;3;0;3;3;2;2;3;3
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;3;3;2;0;0;3
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;3;3;3;0;3
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;0;2;2;3
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-3;-3;2;2;0;-2;2;2;0;0;0;0;0;0;0;0;0
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;3;-2;0;-2;2
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;3;3;1;0;2;-2;3
+Emiliano Oscosiri ;Jalq'a;Isluco ;Isluco ;Primary;38;Male;6;Yes;Mother;1;2;-3;-3;3;3;3;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;3;3;3;-1;3
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;3;3;3;3;2;3;0;3
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-3;-3;-3;-2;-3;-3;-2;3;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;1;3;2;1;2;2;3;0;3
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;0;0;0;2;0;3
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;3;0;2;0;3
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;2;2;1;2;0;3
+Acelmo Toriguano ;Jalq'a;Isluco ;Isluco ;Primary;53;Male;4;Yes;Mother;1;-3;-3;-1;3;3;2;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;1;0;2;0;3
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;2;-2;2;-2;-2;-2;-1;3;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-2;3;2;3;-3;0;3;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;-3;-2;-2;-1;-2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;-2;3;2;1;0;0;3
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;-2;3;0;1;0;2
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Juan Calle ;Jalq'a;Isluco ;Isluco ;Secondary;50;Male;8;Yes;Father;0;-2;0;-3;-3;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;2;2;0;-2;0;3
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-3;-3;-2;-2;-1;-3;1;3;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;2;-2;2;3;1;2;0;3
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-2;-2;2;-2;2;-2;2;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;-1;3;2;0;2;0;2
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;3;3;1;2;0;2
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;3;2;1;2;-2;0;2
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bonifacio Oscosiri;Jalq'a;Isluco ;Isluco ;Secondary;32;Male;6;Yes;Father;-2;0;-1;1;0;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;-1;-1;1;1;-2;0;0;0;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;1;1;-3;0;-2;-2;-3;0;2;0;0;0;0;0;0;0;0;0
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-3;1;2;0;1;0;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;-2;-3;1;0;2;-2;0;2;0;0;0;0;0;0;0;0;0
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-2;1;-2;0;1;-2;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;-2;1;1;1;1;1;2;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;-2;1;2;0;1;0;2
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;-2;1;3;1;1;0;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;1;3;0;2;0;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;2;1;1;1;0;1;0;2
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;1;0;1
+Javier Humacachu ;Jalq'a;Isluco ;Isluco ;Secondary;29;Male;3;Yes;Father;-2;3;-3;-1;-1;1;2;1;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;1;1;3;0;1;0;1
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-3;-2;-1;2;-2;-2;3;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-2;2;1;0;0;-3;1
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;3;-3;2;2;-1;3;-2;2;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-1;-2;2;1;-2;-2;-3;3;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;2;3;-1;2;0;-3;2
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;2;2;3;1;1;-3;2
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;3;0;1;0;-3;2
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;0;-3;1;2;-3;-2;-3;2;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;2;3;1;2;0;1;-3;3
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;0;1;2;-2;0;0;-3;2
+Agustina Paco ;Jalq'a;Molle Molle ;Isluco ;Primary;59;Female;8;Yes;Mother;2;1;-2;-1;1;3;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;-3;-2;-2;-2;-2;3;0;0;0;0;0;0;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;-2;1;2;-2;3;0;3
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;3;-2;-2;-2;-3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;-2;0;1;2;1;0;0;2
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;-1;-2;1;-2;3;1;1
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-2;-2;1;-3;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;-1;3;0;0;0;0;1
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-1;3;2;2;0;0;2;0;1
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;1;-2;-3;-2;3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;-2;-2;3;1;2;2;2;0
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;3;-1;0;2;0;3
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;2;3;-1;0;2;0;3
+Genobeva Chumacero ;Jalq'a;Isluco ;Isluco ;Primary;40;Female;7;Yes;Mother;2;-2;-3;-1;-2;3;2;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;2;-2;0;3;0;3
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;2;-2;-3;-2;-1;-2;-2;3;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;-2;-3;-2;-2;-3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;0;3;-2;-1;0;0;0;2
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;-3;0;2;1;2;0;1
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;3;-2;2;3;1;3
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-3;-2;-2;2;2;-2;-3;3;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;-2;0;2;1;0;0;0;3
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fermina Saigua ;Jalq'a;Isluco ;Isluco ;Primary;33;Female;9;Yes;Father;-2;-1;-3;-2;3;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-2;0;-1;3;-2;0;1;0;3
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;-3;1;1;-3;0;0;0;1
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;2;-3;1;1;2;-3;-3;3;0;0;0;0;0;0;0;0;0
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;-2;1;0;0;1;0;1
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;2;-2;0;0;2;-3;-2;2;0;0;0;0;0;0;0;0;0
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;1;1;-2;0;0;0;-1;-1;-2
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;0;1;1;1;2;0;0;1;1
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;-2;1;2;0;1;0;2
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;-2;0;1;2;2;0;2
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;1;0;1
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;-2;-2;0;3;2;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;3
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;1;0;1
+Felipe Flores ;Jalq'a;Sorojchi ;Sorojchi ;Primary;55;Male;6;Yes;Father;1;2;-2;1;-1;1;1;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;0;2;0;0;0;2
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-3;-3;-2;-3;-3;-2;-2;2;0;0;0;0;0;0;0;0;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;2;0;0;0;3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;1;1;1;-1;2;-2;2;2;0;0;0;0;0;0;0;0;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;-2;-2;-3;-2;-3;2;0;0;0;0;0;0;0;0;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;1;0;-3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;-2;3;2;3;2;-3;3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;2;3;0;0;3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;2;3;0;3;-3;3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;1;2;1;0;0;-3;0
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;1;0;2;0;3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;0;1;0;2;0;3
+Felix Garnica Flores ;Jalq'a;Sorojchi ;Sorojchi ;Secondary;57;Male;6;Yes;Father;-1;-1;-3;1;2;2;3;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;3;-3;0;0;3
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-3;-2;-3;0;-3;0;3;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-1;3;-2;2;2;3;-2;3;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;3;-3;-1;2;-2;-3;-3;0;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;-2;-1;3;2;0;3;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;-2;3;3;2;3;2;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;-3;3;3;2;2;2;2
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;3;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;2;3;3;3;-3;3;3
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;0;0;1;-1;-1;3
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alberta Yupamqui ;Jalq'a;Potolo ;Sorojchi ;Primary;47;Female;6;Yes;Father;-2;-3;2;-1;2;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;2;2;2;0;-3;-3;2
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;3;3;3;3;3;3;3;3
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-3;-3;1;2;0;-3;1;1;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;-3;-2;0;2;-2;1;3;2;2;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-2;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;-3;-2;-2;-3;-2;2;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;1;2;3;2;-2;0;3;2
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;2;3;0;2;3;3
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;2;3;2;2;3;2
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;3;2;3;2;2;2
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;1;2;2;1;1;2;-1;2;3;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;1;-2;2;2;1;0;2;3
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;No;-2;2;3;2;3;3;-3;0;2;0;0;0;0;0;0;0;0;0
+Maria Garnica Flores;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;7;Yes;Mother;2;2;-3;-1;3;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;2;1;0;2;2;3
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-3;-2;-3;-2;-3;0;-2;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;3;2;0;2;3;0;2
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;0;2;1;2;3;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;0;0;-2;-3;2;-2;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;-2;3;2;2;1;0;2
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;3;3;2;3;0;2
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;2;-1;2;3;0;3
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;2;1;1;2;0;3
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;2;2;1;2;0;3
+Martina Condori ;Jalq'a;Sorojchi ;Sorojchi ;Primary;38;Female;9;Yes;Father;1;1;3;-1;3;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;3;2;0;2;0;1
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;0;-3;-2;-3;-3;-2;2;2;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;2;2;0;2;0;3
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;-2;-2;1;-3;-2;2;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;0;1;2;1;0;0;0;-2
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;2;3;0;-2;-3;3
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;2;3;3;0;2;-3;2
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;1;0;2;-3;1
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;-2;2;2;2;-3;0;0;3
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;-2;1;2;2;-3;1;0;2
+Elisa Ticona Michel ;Jalq'a;Sorojchi ;Sorojchi ;Primary;52;Female;7;Yes;Father;2;2;-1;-1;0;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;1;2;2;-3;0;0;3
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;No;-2;1;2;-1;2;2;-2;1;-2;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;2;-2;0;-1;-1;-3;0;2;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;-2;1;2;1;0;0;1
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;2;-3;0;0;2;-2;0;2;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;0;-2;1;0;3;-3;0;3;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;2;0;-2;0;1
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;0;1;2;0;1;0;3
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;-2;-2;1;1;0;2;0;1
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;2;0;1
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;1;-2;-2;2;2;3;-2;0;3;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;2;1;1;1;0;0;0;2
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;2;1;2;0;0;0;1
+Evangelina Ramos ;Jalq'a;Sorojchi ;Sorojchi ;Primary;49;Female;6;Yes;Mother;2;2;-1;-2;-2;1;1;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;2;0;1;0;1
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;No;-2;1;1;1;2;2;-2;0;-2;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;0;1;1;-3;0;3;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;-2;1;2;0;0;0;-2
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;1;-2;1;0;1;-2;0;2;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;1;-2;-2;0;0;-2;-2;0;-2;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;1
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;-2;1;2;0;0;0;2
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;-2;1;2;1;1;0;1
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;1;2;2;0;1;0;1
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;1;-2;-3;0;0;1;-2;0;2;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;2;-2;0;0;2
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;2;0;1;0;1
+Justina Chojllu ;Jalq'a;Molle Molle ;Sorojchi ;None;56;Female;10;Yes;Father;-1;2;-1;-2;-1;1;1;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;1
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;1;-2;-1;2;1;0;0;1;2;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;2;3;2;1;0;1;3;2;1;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-2;2;0;1;2;0;1
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;-2;-1;0;2;3;1;1;1;2;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;3;-2;-1;1;2;3;1;1
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-1;2;3;1;3;1;0;0;1
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;2;2;2;1;1;2
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-2;-1;1;2;3;1;2;1;3
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;3;2;1;0;0;1;-2;-1;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;-2;-1;1;2;2;-1;3
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;2;-2;3;-1;2;2;1;0;2;0;0;0;0;0;0;0;0;0
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-2;-1;-2;1;2;0;3
+Senon Pacaja Chojllu ;Jalq'a;Sorocoto;Sorocoto ;Primary;55;Male;6;Yes;Father;-2;-1;-2;-1;2;3;2;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;3;1;1;2;1;2;2
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Achira;Canna edulis Ker Gawl;Naturalized;Si;No;1;-2;0;0;-1;1;2;1;2;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;-2;0;2;1;1;-1;-2;1;2;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;-3;1;0;2;2;3;1;3;2;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;1;1;2;2;1;-2;0;1;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;-2;-1;2;0;3;-3;3;1;2;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;2;2;1;-1;-1;2
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;-1;0;0;0;1;2;1
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;No;-2;-2;0;0;0;3;1;3;1;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;No;1;2;1;1;2;-3;-3;3;1;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;2;-2;0;0;2;-3;-2;2;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;1;2;2;0;0;3
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;2;-2;-2;0;3;2;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;1;2;0;2;2
+Manuel Cruz Churqui ;Jalq'a;Sorocoto;Sorocoto ;Primary;66;Male;6;Yes;Father;0;0;-1;0;-3;0;2;0;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;-1;-1;0;0;1;1;1
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;1;2;0;2;1;3;2;2;1;0;0;0;0;0;0;0;0;0
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;2;1;1;1;3;2;3;1;1;0;0;0;0;0;0;0;0;0
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;1;2;1;3;2;1;2;2;0;0;0;0;0;0;0;0;0
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;2;3;3;2;1;1;0;2;0;0;0;0;0;0;0;0;0
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;1;1;2;3;3;1
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;2;1;1;3;1;1
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;1;1;2;3;0;0;1
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;-3;-1;-1;2;2;3
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;3;0;0;0;2;3;2;1
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;1;2;3;1;1;2;2;1;2;0;0;0;0;0;0;0;0;0
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;2;1;-2;-3;1;2;3
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;1;1;1;0;-2;0;-2;3
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;2;2;1;3;1;3
+Damian Pacaja Chojllu ;Jalq'a;Sorocoto ;Sorocoto ;Primary;53;Male;3;Yes;Mother;2;-1;-2;-2;2;3;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;1;3;1;2;1;3;-3
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;-1;2;1;1;2;2;3;1;1;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;3;-2;-2;-2;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;3;3;3;3;2;3;2;3;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;2;1;2;3;1;2;2;1;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;-2;2;-2;-3;1;2;2;0;3
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-3;2;2;2;1;1;1;0;3
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;1;1;2;0;0;0;2
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;No;2;-2;-1;-2;0;0;1;1;2;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;-2;-1;2;0;2;1;3;1;3;0;0;0;0;0;0;0;0;0
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;2;2;2;3;1;1
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;2;2;2;3;1;1;2;3
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;1;2;3;1;1;2
+Esteban Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;50;Male;7;Yes;Father;3;2;-3;-2;1;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;3;3;3;1;1;2;2;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;1;1;2;2;2;3;1;1;2;0;0;0;0;0;0;0;0;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;2;3;-2;-2;0;0;2;2;1;0;0;0;0;0;0;0;0;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;0;0;0;2;1;2
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-2;-2;-2;-2;-2;-1;2;0;0;0;0;0;0;0;0;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;-2;2;2;1;0;0;-3;-2
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;3;3;-2;-3;-3;2
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;-3;2;2;3;1;2;-3;3
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;No;2;1;1;3;2;1;1;1;2;0;0;0;0;0;0;0;0;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-2;-1;2;2;1;1;2;3;1
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;2;3;1;2;2;3;1;2
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;1;1;1;2;3;3;1
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;1;3;2;1;2
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;No;-3;2;2;2;2;3;-2;0;3;0;0;0;0;0;0;0;0;0
+Simeon Condori ;Jalq'a;Sorocoto ;Sorocoto ;Primary;65;Male;6;Yes;Father;2;2;-2;-3;2;-2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;-2;2;3;2;0;-3;-3;3
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;-2;-2;-1;-3;-3;3;0;0;0;0;0;0;0;0;0
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;2;-2;-2;-3;-1;-2;1;1;1;0;0;0;0;0;0;0;0;0
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;1;-3;2;2;3;-2;0;3;0;0;0;0;0;0;0;0;0
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;1;-2;3;2;-2;3;0;2;0;0;0;0;0;0;0;0;0
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;2;3;-1;1;2;2;1;1
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;0;0;0;1;1;2;3
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;1;3
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;2;2;2;0;1
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;2;2;3;3;3;0;3
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;2;3;1;1;1;1;2;2;0;0;0;0;0;0;0;0;0
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;1;2;0;0;0;1;2
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;1;1;0;0;0;3
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;3;1;0;2;2;3;1
+Flora Gomes ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;6;Yes;Father;2;-2;-2;1;2;3;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;3;1;2;3;2;1;1
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;1;2;2;3;1;2;3;2;1;0;0;0;0;0;0;0;0;0
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;2;2;2;0;0;0;3
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;3;1;1;2;3;1;2;1;0;0;0;0;0;0;0;0;0
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;1;3;0;0;-2;-2;-2;0;3
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;3;3;1;3;1;1;3;1
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;2;2
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;-2;-2;-3;0;0;3
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;3;1;1;3;1;2;1
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;1;2;3;1;-2;-1;0;-1;1;0;0;0;0;0;0;0;0;0
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;2;2;2;3;1;2
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;2;2;3;3;3;2;2;1
+Gregoria Higuebara ;Jalq'a;Cuturi;Sorocoto ;None;42;Female;11;Yes;Father;1;-2;-3;-1;-2;2;3;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;1;1;1;2;2
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-1;-3;-3;-2;3;-3;3;2;0;0;0;0;0;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;1;2;3;3;2;3
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;2;2;3;1;-2;-2;-2;0;0;0;0;0;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;-2;-2;0;3;2;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;1;-2;0;0;0;-1;-1;-2
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;1;1;1;2;0;0;1;1
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;-2;1;2;0;1;2;1
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;-2;0;3;2;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;1;3;1
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;2;1;2
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;1;3
+Reyna Huanco Choque ;Jalq'a;Sorocoto ;Sorocoto ;Primary;48;Female;4;Yes;Mother;-1;-2;-3;-2;-1;2;3;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;2;2;1;2;3;1;3
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-1;-3;-3;-3;-2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;-3;-3;2;0;0;-3;3
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;3;-3;-2;-2;3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;-2;-3;-2;-2;0;-3;-2;2;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;1;-2;2;-3;3
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;3;2;3;0;3;-3;3
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;0;2;-3;2
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;No;3;-3;-3;-2;-2;-3;-3;-2;2;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;3;3;-2;0;-3;3
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;0;1;3;3;-2;0;-3;3
+Deciderio Chojllu Paco ;Jalq'a;Soroscopa ;Soroscopa ;Primary;68;Male;9;Yes;Father;-1;-1;-3;-3;-1;-2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;1;2;0;2;-3;2
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-2;-3;-2;-2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;2;2;2;1;0;1;-3;3
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;-2;-3;-2;2;-2;-3;-2;2;0;0;0;0;0;0;0;0;0
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;2;3;2;-3;1;0;2;-2;2
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;1;-2;1;2;2;-1;-3;2
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;3;3;0;2;-3;3
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;1;2;3;1;2;-3;2
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;2;2;0;3;-3;2
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-2;-2;-2;-3;-2;-2;-2;3;0;0;0;0;0;0;0;0;0
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;2;2;3;-2;-3;1;-3;3
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;2;3;0;2;-3;1
+Enrique Soria ;Jalq'a;Soroscopa ;Soroscopa ;Primary;44;Male;7;Yes;Father;-1;-2;-3;-1;3;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;2;-2;0;1;-3;2
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Cordero o jataku;Amaranthus hybridus L.;Weed;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;2;2;2;0;-2;-3;3
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;2;-3;1;1;2;-3;-3;2;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;3;2;0;2;0;2
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;1;2;3;0;2;0;2
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;0;2;3;2;0;1
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;2;1;1;-3;0;-3;3
+Valerio Chojllu ;Jalq'a;Soroscopa ;Soroscopa ;Primary;66;Male;11;Yes;Father;1;-1;2;1;1;3;2;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;0;2;2;1;0;-3;2
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;2;-3;1;2;3;-2;1;3;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;-2;2;2;-2;-2;-3;3
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-2;-2;-2;2;-2;-2;2;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;2;2;-2;1;-3;3
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;-3;1;2;3;2;2;-3;3
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;1;2;-2;-2;-1;0;-1
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-2;-2;-2;-2;2;-2;-2;2;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;2;0;-3;0;-3;-2
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;0;1;2;2;-3;-3;0;-2
+Marcelina Varcaya ;Jalq'a;Soroscopa ;Soroscopa ;Primary;53;Female;5;Yes;Mother;-1;1;2;-1;-2;1;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;2;2;0;0;-3;0;3
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;3;-3;-2;-3;-3;-2;3;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-3;3;2;3;2;-3;2;-3;2
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;1;3;2;-3;1;0;0;-3;1
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;-2;3;3;3;-2;-3;3
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;1;2;0;0;2;1;2;2
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;-2;-3;2;3;-1;0;0;-3;2
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-3;-3;2;-3;2;-3;-2;-3;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;1;2;-3;-2;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Venita Mamani ;Jalq'a;Soroscopa ;Soroscopa ;Primary;47;Female;6;Yes;Mother;3;-2;-2;2;3;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2;-2;-2;3
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;1;3;3;-3;-2;2;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;-2;2;-1;1;0;-3;2
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;-2;-2;-2;-2;1;3;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;-3;2;2;-2;-2;3;0;-3;3;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;2;2;0;2;-3;3
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;0;0;2;2;0;2;-3;3
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;-3;0;0;0;0;0;-3;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;2;-2;-2;1;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;3;2;-3;2;2;3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;-2;0;2;1;-3;-2;-3;-2
+Teodora Chojllu Coa ;Jalq'a;Tomoyo ;Soroscopa ;None;55;Female;6;Yes;Father;2;0;-1;2;-2;2;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;-2;-3;2;-3;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;2;0;2;3;3;0;3;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;0;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;3;-3;0;3;-3;3;-3;3;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;-3;3;3;2;3;0;0;3;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;3;3;3;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;3;3;2;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;3;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;-3;-2;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;3;3;3;3
+Ever Tapia ;Mojocoya;Quivale;Quivale ;Secondary;24;Male;5;Yes;Father;2;-1;-2;2;2;1;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;2;-2;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale ;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;1;3;1;0;1;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;0;3;3;3;-3;0;3;0;0;0;0;0;0;0;0;0
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-2;1;1;1;3;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;1;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-2;3;3;3;3;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-2;3;-1;3;3;-3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;0;3;3;3;3;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;2;3;-2;0;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;-3;3;3;3;3;3;3
+Demetrio Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;38;Male;6;No;None;0;-3;3;3;-3;-3;-3;-3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;1;3;3;3;3;3;3
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;1;2;2;-1;3;3
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-3;-3;-1;3;-2;-3;3;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;0;-3;-3;-3;-3;-3;0;1;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;-3;-3;-3;3;-1;1;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;1;0;-1;0;2;3;2;-1;1;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;-1;3;3;1;3;3;3
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;-1;3;3;3
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;3;0;0;1;0;3;-3;3;3;0;0;0;0;0;0;0;0;0
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;3;3;3;3;3;0;3;3
+Francisca Pucho Ramos ;Mojocoya;Naunaca ;Quivale ;Primary;54;Female;6;Yes;Mother;3;3;2;2;2;3;3;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;3;3;-2;3;3
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;-2;2;3;3;1;3
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;0;0;3;3;3;-3;3;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;-2;-2;2;-3;3;2;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;1;-3;-3;-3;3;3;-3;-3;-2;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Quinua;Chenopodium quinoa Willd.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;-1;3;3;0;1;3;3
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;3;2;3;3
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;3;1;-3;3;-1;-3;-3;-2;1;0;0;0;0;0;0;0;0;0
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;3;3;-3;-3;3
+Carmen Cervantes Torrez;Mojocoya;Quivale;Quivale ;Primary;47;Female;4;Yes;Father;-2;2;2;-3;2;2;3;1;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;-1;1;3;2;3;3
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;3;3;3
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;0;-3;-3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;0;-3;-3;3;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;-3;-3;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;3;0;-3;-3;-3;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;3;3;3;3;3
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;3;3;3;3
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;-2;2;-2;3
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;-1;3;3
+Jose Gutierrez Mendoza ;Mojocoya;Quivale;Quivale ;None;59;Male;6;Yes;Mother;-2;2;2;1;3;3;3;-1;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;-2;-1;3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;1;3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;0;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;0;2;3;3;-3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;0;1;0;1;1;0;-2;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;2;3;3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;0;0;3;3;3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;1;2;0;3;3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;1;3;3;3
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nilda Yucra;Mojocoya;Naunaca ;Quivale ;Secondary;33;Female;6;Yes;Father;3;3;-3;-2;2;1;1;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;2;1;3;3;3
+Alejandrina Vedia ;Mojocoya;Quivale ;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;0;0;3;2;3;3
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;1;3;-3;3;2;-3;-3;3;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;3;3;-1;-3;3
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;3;1;2;3;1;-1;-2;1
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;3;3;3;3
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;1;2;3;3;3;3
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;0;3;3;3
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;1;0;3;3;3;1;2;2;3
+Alejandrina Vedia ;Mojocoya;Quivale;Quivale ;Primary;40;Female;4;Yes;Father;3;3;-3;-1;2;3;1;-3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;2;3;3;3;3
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;No;0;0;3;3;3;3;-1;3;3;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;0;3;-3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;0;3;3;3;3;-3;-1;3;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;3;-3;-3;-3;-3;1;3;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;3;0;-3;-3;3;3;-3;-3;2;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;3;3;0;3;3
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;-1;0;3;3;0;3
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;-3;3;3;3
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;0;3;1
+Celia Daza Ramos ;Mojocoya;Ceripona (Valles);Quivale ;Secondary;47;Female;3;Yes;Father;3;3;-1;-1;2;2;0;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;3;-1;3;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Achira;Canna edulis Ker Gawl;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;3;0;3;-3;1;3;2;3;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;0;-3;-3;2;-3;-3;-3;-1;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-3;0;1;3;3;-3;-2;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;2;-3;0;-3;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;3;3;3;-1;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;2;-3;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;2;3;-1;1;-3;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;3;-1;3;-3;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;-3;3
+Quintin Ortega Ramos ;Mojocoya;Quivale;Quivale ;Primary;41;Male;5;Yes;Father;1;2;-3;-3;2;2;3;-1;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;2;3;-2;-1;-3;3
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Achira;Canna edulis Ker Gawl;Naturalized;Si;No;-3;1;3;-3;3;3;-3;3;-1;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;0;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;1;3;-3;0;3;0;-3;-1;-2;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;1;-1;-3;0;0;-1;-3;-3;-2;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;2;-1;-2;0;-1;-1;-3;1;-3;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;1;3;3;1;1;-2;3
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;1;3;-3;3
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;1;1;-3;-3;-2;-3;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;3;0;0;3;3;3;3
+Delina Nova Zarate;Mojocoya;Quivale;Quivale ;Secondary;37;Female;6;Yes;Father;-3;1;-2;-2;-1;2;1;1;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;3;1;1;-1;1;-3;3
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;No;1;3;-3;3;3;3;-3;-1;3;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;3;3;3;3;-1;-3;-3;3;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;1;-3;-3;-3;-3;-3;-1;3;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;1;0;-2;-2;0;0;-3;-3;3;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;1;3;3;3
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;1;2;3;3
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;3;-1;3;3;3
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;3
+Bruno Flores Choque;Mojocoya;Quivale;Quivale ;Secondary;42;Male;6;Yes;Father;-1;3;2;3;3;3;3;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;1;0;3;-1;2;3;1;3;3
+Mauro Flores ;Mojocoya;Quivale;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;0;3;1;0;0;0;3;2
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;0;-3;0;3;3;3;-3;3;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;0;-3;0;3;3;-3;-3;1;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;1;1;0;3;-2;-3;-3;1;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;1;1;1;0;3;0;-3;-3;1;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-1;3;2;3;3;3;2
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;1;-2;3;3;3
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;3;0;1;0;0;0;3;2
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;2;-1;1;3;3;3
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;1;2;3;3;2
+Mauro Flores;Mojocoya;Quivale ;Quivale ;Secondary;31;Male;3;Yes;Father;3;0;-3;-1;2;3;3;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;0;0;1;-2;-1;1
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;0;3;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;1;-3;3;3;3;-3;-3;-1;0;0;0;0;0;0;0;0;0
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;3;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;1;1;3;3;-2;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;3;1;3;3;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;2;1;3;3;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;3;1;2;0;2;3;2
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;No;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;3;3;3;3;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;3;3;3;3;3
+Roman Arriaga Choque;Mojocoya;Quivale;Quivale ;Secondary;34;Male;5;Yes;Father;-3;3;1;-2;-2;2;2;0;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;3;3;3;3
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;0;3;1;-3;3;3;3;3
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-1;-3;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;2;3;-3;-3;1;-1;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;2;-1;3;1;-1;-2;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;2;0;3;-1;-1;2;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-1;1;3;-1;-1;3;2
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;2;3;-1;3;3;3
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;3;-3;0;0;0;-3;-3;0;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;-3;-3;2;3;3
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;3;0;3;3;3
+Benita Castro Parada ;Mojocoya;Quivale;Quivale ;Primary;64;Female;6;Yes;Father;-3;1;-3;-3;2;2;0;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;-2;-1;3;3
+Santusa Vedia Flores ;Mojocoya;Quivale;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;0;-3;0;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;0;-3;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;-3;-1;2;-3;-3;-3;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;-1;3;3;3
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;1;3;-1;3;3;3
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;3;-1;3;3;3
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;1;2;3;-1;3;3;3
+Santusa Vedia Flores ;Mojocoya;Quivale ;Quivale ;Primary;48;Female;11;Yes;Father;1;3;-3;-3;3;2;3;3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;1;1;3;3;3;3;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;1;2;3;0;2;2;3;2
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Cordero o jataku;Amaranthus hybridus L.;Weed;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-3;1;-1;2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;3;2;1;0;-2;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;3;0;2;2;0;1;3;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;3;3;0;2;3;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;1;-2;3;3;2
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;0;3;2;2;0;1;3;1
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;2;-2;2;3;3;0;0;3;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;-2;1;2;0;1;2;-3;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;1;0;2;3;3
+Nicolas Yucra ;Mojocoya;San Jorge ;San Julian ;Primary;76;Male;7;No;None;-1;0;-2;-2;-2;2;3;0;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;2;3;2;0;2;-2;3
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;3;3;0;0;3;3;3
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Cordero o jataku;Amaranthus hybridus L.;Weed;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;0;2;-3;1;2;2;-3;-3;3;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;-2;-2;-2;-2;-3;2;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;0;1;3;3;2;0;0;1;3
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;3;3;1;2;0;3;3
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;3;3;3;3
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;No;-3;2;3;-2;-2;3;3;3;-1;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;2;0;-2;0;-3;3
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Francisco Ramirez;Mojocoya;San Julian ;San Julian ;Primary;68;Male;2;No;None;3;2;-3;-2;-3;3;3;-2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;1;3;-2;0;3;-3;3
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-3;-2;-3;0;-3;-2;3;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;2;-2;-1;-3;-2;3;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;3;3;3;0;0;1;-3;3
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;2;-2;3;3;3
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-2;-2;3;-2;0;-2;3;-2;0;0;0;0;0;0;0;0;0
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;0;1;3;2
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;1;-2;0;-3;3
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;0;0;2;3;2
+Evaristo Cano;Mojocoya;Tablayo C-Nor Cinti;San Julian ;Primary;67;Male;1;Yes;Father;3;0;-3;-2;-3;2;2;-2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;0;-2;2;-2;2
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;0;0;2;2;3
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Cordero o jataku;Amaranthus hybridus L.;Weed;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2;3
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;1;2;0;3;1;-3;3
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;1;2;2;3;2;0;1;2
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;0;0;2;2
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;2;3;3;1;-2;-2;-3;3
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;2;0;2;2;2
+Mariano Choque ;Mojocoya;La Poza;San Julian ;Primary;64;Male;9;Yes;Father;2;2;-2;-1;-3;3;2;-2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;1;3;0;-2;2;-3;3
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;2;2;3;-3;-2;3;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-3;3;2;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;1;-2;-2;-3;-2;-2;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;0;2;1;3;0;0;2;3;3
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;3;0;1;3;3
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;1;0;3;3;3
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;0;0;3;2;3;0;0;3;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;2;2;0;0;3;2
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;3;3;2;0;-2;1;-3;3
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;3;1;3;1;0;2;2;3
+Maria Elena Rocha Salazar;Mojocoya;La Belleza-Padilla;San Julian ;Professional;34;Female;5;Yes;Mother;3;-2;-1;-2;-1;2;2;1;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;1;2;0;-2;2;-3;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;3;0;0;2;2;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-3;-3;2;-2;-2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;3;0;0;0;-3;2
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;0;3;1;0;1;-2;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;0;2;-2;3;0;1;0;-3;2
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;3;3;2;2;3;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;0;3;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;0;3;3;3;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;2;1;-2;0;0;2;-3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;0;1;3;-2;0;1;-3;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;3;2;0;2;2;3
+Fausta Choque Apaza;Mojocoya;San Julian ;San Julian ;None;70;Female;7;Yes;Father;2;-2;-3;-3;-1;3;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;0;1;2;-3;3
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;1;0;1;2;-1;0;1;3;3
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Cordero o jataku;Amaranthus hybridus L.;Weed;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-3;3;3;3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-2;-3;-2;-2;-2;-2;3;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;1;2;3;2;0;3;3
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;1;0;0;3;2
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;No;3;3;-3;2;3;-1;-3;-3;3;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;No;-3;3;3;3;2;-2;-3;2;3;0;0;0;0;0;0;0;0;0
+Simeon Alegria ;Mojocoya;Redencion Pampa;San Julian ;Primary;25;Male;4;No;None;2;-2;-1;1;-3;0;1;-3;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;0;-2;2;-3;3
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;-2;3;-1;0;1;2;3
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;-3;3;-2;-3;-3;3;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;Si;No;0;3;3;1;-1;3;3;2;2;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-2;-3;0;-2;-2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;0;0;3;3
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;2;3;1;0;1;3;3
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;No;-3;2;3;3;2;1;-2;3;3;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;-3;3
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;3;2;0;2;2;3
+Fidelia Ramirez;Mojocoya;San Julian ;San Julian ;Primary;36;Female;8;Yes;Mother;-2;-2;-3;-1;-1;3;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;3;2;1;1;-3;3
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Cordero o jataku;Amaranthus hybridus L.;Weed;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;2;-3;3;2;1;-3;-2;3;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;0;0;0;-3;3
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;No;3;3;-3;-1;-1;3;-2;-2;3;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;1;0;3;3
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;1;2;3;2;0;0;2;3
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;3;0;3;3;3
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;2;3;0;1;3;1
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-2;3;3;-2;2;3;0;0;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;3;2;1;0;-3;3
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;No;-3;1;3;3;1;-2;-3;2;2;0;0;0;0;0;0;0;0;0
+Yaquelin Zarate Moscoso ;Mojocoya;San Julian ;San Julian ;Secondary;29;Female;5;Yes;Father;3;-2;-3;-3;-1;2;3;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;0;3;1;0;2;-3;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;2;2;0;2;3;3;0;3;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;-3;0;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;3;-3;0;3;-3;3;-3;3;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;-3;3;3;2;3;0;0;3;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;3;3;3;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;3;3;2;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;3;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;-3;-2;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;3;3;3;3
+Teofilo Choque Lopez;Mojocoya;San Julian ;San Julian ;Primary;56;Male;3;Yes;Father;-2;-3;-2;-3;-2;3;3;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;2;-2;3;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;0;0;3;2;3;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;3;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;No;3;1;3;-3;3;2;-3;-3;3;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;1;3;3;-1;-3;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;3;1;2;3;1;-1;-2;1
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;3;3;3;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;1;2;3;3;3;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;0;3;3;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;1;0;3;3;3;1;2;2;3
+Rosa Yucra ;Mojocoya;Tokoro;San Julian ;None;60;Female;8;Yes;Father;1;-2;-3;-2;3;3;2;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;1;2;3;3;3;3
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Achira;Canna edulis Ker Gawl;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;-2;-3;-2;-3;0;-3;-2;3;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;No;3;-3;-3;2;-2;-1;-3;-2;3;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;1;3;3;3;0;0;1;-3;3
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;2;-2;3;3;3
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;Si;No;3;-2;-2;3;-2;0;-2;3;-2;0;0;0;0;0;0;0;0;0
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;0;1;3;2
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;1;3;3;1;-2;0;-3;3
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;0;0;2;3;2
+Senovia Padilla Palacios ;Mojocoya;Tomina;San Julian ;Primary;72;Female;8;No;None;2;2;-1;-2;-3;2;2;-2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;2;2;0;-2;2;-2;2
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;1;0;2;1;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;2;-3;-2;1;2;-3;-2;3;0;0;0;0;0;0;0;0;0
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;3;1;2;3;-2;1;2;2;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;2;3;2;2;-1;2;0;-2;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;2;1;3;3;0;0;1;-3;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;2;3;3;3;2;2;3;2
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;2;0;2;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;3;0;3;3;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;1;0;1;3;2
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;2;0;1;2;-3;3
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;2;2;2;3;1;0;2;2;2
+Reyna Quiroga ;Mojocoya;San Julian ;San Julian ;Primary;65;Female;3;Yes;Father;2;-2;-2;-1;-2;2;3;2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-2;3;3;0;-2;3;-3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;1;3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;1;-3;0;3;3;-3;-3;3;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;0;2;3;3;-3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;0;1;0;1;1;0;-2;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;-3;3;3;3;2;3;3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;0;0;3;3;3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;2;1;2;0;3;3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;3;1;3;3;3
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Vicente Arancibia Maturano;Mojocoya;Redencion Pampa;San Julian ;Primary;76;Male;9;Yes;Father;2;2;-2;-2;-1;2;3;-2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;3;3;2;1;3;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Achira;Canna edulis Ker Gawl;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;0;1;3;1;0;1;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Cordero o jataku;Amaranthus hybridus L.;Weed;Si;No;3;3;0;3;3;3;-3;0;3;0;0;0;0;0;0;0;0;0
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Isaño;Tropaeolum tuberosum Ruiz & Pav.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Locosti;Passiflora umbilicata (Griseb.) Harms;Native;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-2;1;1;1;3;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Muña;Clinopodium bolivianum (J.R.I. Wood);Native;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Kh'ita quilquina;Porophyllum ruderale (Jacq.) Cass.;Nativa-Ruderal;Si;Si;0;0;0;0;0;0;0;0;0;3;3;3;3;3;3;3;1;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Quinua;Chenopodium quinoa Willd.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-2;3;3;3;3;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Tarwi;Lupinus mutabilis Sweet.;Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Frijoles nativos;Phaseolus vulgaris L.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;0;-2;3;-1;3;3;-3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Ajipa;Pachyrhizus ahipa (Wedd.) Parodi.;Native-cultivated;No;Si;0;0;0;0;0;0;0;0;0;3;3;0;3;3;3;3;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Oqhoruro;Nasturtium officinale R.Br.;Naturalized;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Tomate de árbol;Solanum betaceum (Cav.);Native-cultivated;No;No;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Tuna;Opuntia ficus-indica (L.) Mill.;Naturalized;Si;Si;0;0;0;0;0;0;0;0;0;3;2;1;2;3;-2;0;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Yacón;Smallanthus sonchifolius (Poepp.) H. Rob.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;3;-3;3;3;3;3;3;3
+Pedro Gutierrez ;Mojocoya;Zudañez;San Julian ;Primary;63;Male;8;No;None;3;3;-3;-1;2;2;0;-2;Zapallo criollo;Cucurbita maxima Duchesne.;Native-cultivated;Si;Si;0;0;0;0;0;0;0;0;0;3;1;1;3;3;3;3;3;3
