@@ -1,14 +1,13 @@
-# NUS
 # ============================================================
-# DETERMINANTES DE LA ADOPCIÓN DE ESPECIES NUS
-# Jalq'a y Mojocoya, Bolivia
-# Análisis reproducible: limpieza -> descriptivos -> EFA ->
-# GLMM -> interacción región × especie -> amplitud de adopción
-# -> figuras y tablas
+# DETERMINANTS OF NUS SPECIES ADOPTION
+# Jalq'a and Mojocoya, Bolivia
+# Reproducible analysis: data cleaning -> descriptive statistics -> EFA ->
+# GLMM -> region × species interaction -> adoption breadth
+# -> figures and tables
 # ============================================================
 
 # --------------------------------
-# 0. PAQUETES
+# 0. PACKAGES
 # -------------------------------
 packages <- c(
   "tidyverse", "janitor", "readr", "lme4", "broom.mixed",
@@ -24,6 +23,7 @@ install_if_missing <- function(pkgs) {
     }
   }
 }
+
 install_if_missing(packages)
 
 library(tidyverse)
@@ -48,57 +48,60 @@ options(stringsAsFactors = FALSE)
 set.seed(20260808)
 
 # ---------------------------
-# 1. RUTAS
+# 1. DATA PATHS
 # ---------------------------
-# Cambie esta ruta si NUS.csv está en otra carpeta.
-ruta_datos <- "NUS.csv"
+# Change this path if NUS.csv is located in another folder.
+data_path <- "NUS.csv"
 
-dir.create("NUS_resultados", showWarnings = FALSE)
-dir.create("NUS_resultados/tablas", showWarnings = FALSE)
-dir.create("NUS_resultados/figuras", showWarnings = FALSE)
+dir.create("NUS_results", showWarnings = FALSE)
+dir.create("NUS_results/tables", showWarnings = FALSE)
+dir.create("NUS_results/figures", showWarnings = FALSE)
 
 # ---------------------------
-# 2. IMPORTACIÓN
+# 2. DATA IMPORT
 # ---------------------------
-# La base proporcionada está separada por ';' y codificada en Latin-1.
-datos_raw <- read.csv(
-  ruta_datos,
+# The provided dataset is semicolon-separated and encoded in Latin-1.
+raw_data <- read.csv(
+  data_path,
   sep = ";",
   fileEncoding = "latin1",
   stringsAsFactors = FALSE,
   check.names = FALSE
 )
 
-datos <- datos_raw %>%
+data <- raw_data %>%
   janitor::clean_names()
 
-cat("Filas iniciales:", nrow(datos), "\n")
-cat("Columnas:", ncol(datos), "\n")
+cat("Initial rows:", nrow(data), "\n")
+cat("Columns:", ncol(data), "\n")
 
 # ---------------------------
-# 3. NORMALIZACIÓN DE TEXTO
+# 3. TEXT NORMALIZATION
 # ---------------------------
-normalizar_si_no <- function(x) {
+normalize_yes_no <- function(x) {
   x <- stringr::str_trim(as.character(x))
   x <- stringr::str_to_lower(x)
+
   case_when(
-    x %in% c("si", "sí", "yes", "y", "1") ~ "Si",
+    x %in% c("si", "sí", "yes", "y", "1") ~ "Yes",
     x %in% c("no", "n", "0") ~ "No",
     TRUE ~ NA_character_
   )
 }
 
-vars_si_no <- c(
+yes_no_vars <- c(
   "has_garden",
   "knows_plant",
   "willing_to_cultivate"
 )
 
-for (v in vars_si_no) {
-  if (v %in% names(datos)) datos[[v]] <- normalizar_si_no(datos[[v]])
+for (v in yes_no_vars) {
+  if (v %in% names(data)) {
+    data[[v]] <- normalize_yes_no(data[[v]])
+  }
 }
 
-datos <- datos %>%
+data <- data %>%
   mutate(
     name = as.factor(name),
     bioculture = factor(bioculture),
@@ -108,180 +111,262 @@ datos <- datos %>%
     plant_name = factor(plant_name),
     species = factor(species),
     status = factor(status),
-    willing_bin = if_else(willing_to_cultivate == "Si", 1L,
-                          if_else(willing_to_cultivate == "No", 0L, NA_integer_)),
-    knows_bin = if_else(knows_plant == "Si", 1L,
-                        if_else(knows_plant == "No", 0L, NA_integer_)),
-    has_garden_bin = if_else(has_garden == "Yes", 1L,
-                             if_else(has_garden == "No", 0L, NA_integer_))
+
+    willing_bin = if_else(
+      willing_to_cultivate == "Yes", 1L,
+      if_else(willing_to_cultivate == "No", 0L, NA_integer_)
+    ),
+
+    knows_bin = if_else(
+      knows_plant == "Yes", 1L,
+      if_else(knows_plant == "No", 0L, NA_integer_)
+    ),
+
+    has_garden_bin = if_else(
+      has_garden == "Yes", 1L,
+      if_else(has_garden == "No", 0L, NA_integer_)
+    )
   )
 
-# Si Has_garden quedó como NA por etiquetas distintas:
-datos <- datos %>%
+# If has_garden contains NA values because of different labels:
+data <- data %>%
   mutate(
     has_garden_bin = case_when(
-      str_to_lower(as.character(has_garden)) %in% c("yes", "si", "sí") ~ 1L,
+      str_to_lower(as.character(has_garden)) %in%
+        c("yes", "si", "sí") ~ 1L,
+
       str_to_lower(as.character(has_garden)) == "no" ~ 0L,
+
       TRUE ~ has_garden_bin
     )
   )
 
 # ---------------------------
-# 4. AUDITORÍA DE CALIDAD
+# 4. DATA QUALITY AUDIT
 # ---------------------------
 
-# 4.1 Duplicados exactos
-duplicados_exactos <- datos %>%
+# 4.1 Exact duplicates
+exact_duplicates <- data %>%
   filter(duplicated(.))
 
 write.csv(
-  duplicados_exactos,
-  "NUS_resultados/tablas/duplicados_exactos.csv",
+  exact_duplicates,
+  "NUS_results/tables/exact_duplicates.csv",
   row.names = FALSE,
   fileEncoding = "UTF-8"
 )
 
-cat("Duplicados exactos:", nrow(duplicados_exactos), "\n")
-
-# Eliminar SOLO duplicados exactos.
-datos <- datos %>% distinct()
-
-# 4.2 Consistencia de variables del agricultor
-vars_agricultor <- c(
-  "bioculture", "community", "education", "age", "sex",
-  "family_size", "has_garden", "garden_caregiver"
+cat(
+  "Exact duplicates:",
+  nrow(exact_duplicates),
+  "\n"
 )
 
-consistencia <- map_dfr(vars_agricultor, function(v) {
-  datos %>%
-    group_by(name) %>%
-    summarise(n_valores = n_distinct(.data[[v]], na.rm = TRUE),
-              .groups = "drop") %>%
-    summarise(
-      variable = v,
-      agricultores_con_inconsistencia = sum(n_valores > 1, na.rm = TRUE)
-    )
-})
+# Remove ONLY exact duplicates.
+data <- data %>%
+  distinct()
+
+# 4.2 Consistency of farmer-level variables
+farmer_vars <- c(
+  "bioculture",
+  "community",
+  "education",
+  "age",
+  "sex",
+  "family_size",
+  "has_garden",
+  "garden_caregiver"
+)
+
+consistency_audit <- map_dfr(
+  farmer_vars,
+  function(v) {
+
+    data %>%
+      group_by(name) %>%
+      summarise(
+        n_values = n_distinct(
+          .data[[v]],
+          na.rm = TRUE
+        ),
+        .groups = "drop"
+      ) %>%
+      summarise(
+        variable = v,
+        farmers_with_inconsistency =
+          sum(n_values > 1, na.rm = TRUE)
+      )
+  }
+)
 
 write.csv(
-  consistencia,
-  "NUS_resultados/tablas/auditoria_consistencia_agricultor.csv",
+  consistency_audit,
+  "NUS_results/tables/farmer_consistency_audit.csv",
   row.names = FALSE
 )
 
-# Edad inconsistente: no se corrige automáticamente.
-edad_inconsistente <- datos %>%
+# Inconsistent age values: not automatically corrected.
+inconsistent_age <- data %>%
   group_by(name) %>%
   summarise(
-    n_edades = n_distinct(age, na.rm = TRUE),
-    edades = paste(sort(unique(age[!is.na(age)])), collapse = "; "),
+    n_ages = n_distinct(age, na.rm = TRUE),
+    ages = paste(
+      sort(unique(age[!is.na(age)])),
+      collapse = "; "
+    ),
     .groups = "drop"
   ) %>%
-  filter(n_edades > 1)
+  filter(n_ages > 1)
 
 write.csv(
-  edad_inconsistente,
-  "NUS_resultados/tablas/edad_inconsistente.csv",
+  inconsistent_age,
+  "NUS_results/tables/inconsistent_age.csv",
   row.names = FALSE
 )
 
-cat("Agricultores con edades inconsistentes:",
-    nrow(edad_inconsistente), "\n")
+cat(
+  "Farmers with inconsistent ages:",
+  nrow(inconsistent_age),
+  "\n"
+)
 
 # ---------------------------
-# 5. REVISIÓN DE REPETICIONES AGRICULTOR × ESPECIE
+# 5. FARMER × SPECIES REPETITIONS
 # ---------------------------
-rep_agri_especie <- datos %>%
-  count(name, plant_name, sort = TRUE) %>%
+farmer_species_repetitions <- data %>%
+  count(
+    name,
+    plant_name,
+    sort = TRUE
+  ) %>%
   filter(n > 1)
 
 write.csv(
-  rep_agri_especie,
-  "NUS_resultados/tablas/repeticiones_agricultor_especie.csv",
+  farmer_species_repetitions,
+  "NUS_results/tables/farmer_species_repetitions.csv",
   row.names = FALSE
 )
 
-cat("Combinaciones agricultor × especie repetidas:", nrow(rep_agri_especie), "\n")
+cat(
+  "Repeated farmer × species combinations:",
+  nrow(farmer_species_repetitions),
+  "\n"
+)
 
-# IMPORTANTE:
-# No se eliminan automáticamente las repeticiones no idénticas.
-# En particular, revisar Isaño antes del análisis final.
+# IMPORTANT:
+# Non-identical repetitions are NOT automatically removed.
+# In particular, Isaño should be reviewed before the final analysis.
 
 # ---------------------------
-# 6. RESUMEN DE LA MUESTRA
+# 6. SAMPLE SUMMARY
 # ---------------------------
-resumen_muestra <- tibble(
-  n_registros = nrow(datos),
-  n_agricultores = n_distinct(datos$name),
-  n_comunidades = n_distinct(datos$community),
-  n_regiones = n_distinct(datos$bioculture),
-  n_especies = n_distinct(datos$plant_name),
-  edad_media = mean(datos$age, na.rm = TRUE),
-  edad_sd = sd(datos$age, na.rm = TRUE),
-  tam_familiar_media = mean(datos$family_size, na.rm = TRUE),
-  tam_familiar_sd = sd(datos$family_size, na.rm = TRUE)
+sample_summary <- tibble(
+  n_records = nrow(data),
+  n_farmers = n_distinct(data$name),
+  n_communities = n_distinct(data$community),
+  n_regions = n_distinct(data$bioculture),
+  n_species = n_distinct(data$plant_name),
+  mean_age = mean(data$age, na.rm = TRUE),
+  sd_age = sd(data$age, na.rm = TRUE),
+  mean_family_size = mean(
+    data$family_size,
+    na.rm = TRUE
+  ),
+  sd_family_size = sd(
+    data$family_size,
+    na.rm = TRUE
+  )
 )
 
 write.csv(
-  resumen_muestra,
-  "NUS_resultados/tablas/resumen_muestra.csv",
+  sample_summary,
+  "NUS_results/tables/sample_summary.csv",
   row.names = FALSE
 )
 
-print(resumen_muestra)
+print(sample_summary)
 
 # ---------------------------
-# 7. TABLA DESCRIPTIVA POR REGIÓN
+# 7. DESCRIPTIVE TABLE BY REGION
 # ---------------------------
-tabla_region <- datos %>%
+region_table <- data %>%
   distinct(name, .keep_all = TRUE) %>%
   group_by(bioculture) %>%
   summarise(
     n = n(),
-    edad_media = mean(age, na.rm = TRUE),
-    edad_sd = sd(age, na.rm = TRUE),
-    familia_media = mean(family_size, na.rm = TRUE),
+    mean_age = mean(age, na.rm = TRUE),
+    sd_age = sd(age, na.rm = TRUE),
+    mean_family_size = mean(
+      family_size,
+      na.rm = TRUE
+    ),
     .groups = "drop"
   )
 
 write.csv(
-  tabla_region,
-  "NUS_resultados/tablas/tabla_descriptiva_region.csv",
+  region_table,
+  "NUS_results/tables/regional_descriptive_table.csv",
   row.names = FALSE
 )
 
 # ---------------------------
-# 8. DISPOSICIÓN POR ESPECIE × REGIÓN
+# 8. WILLINGNESS BY SPECIES × REGION
 # ---------------------------
-tabla_especie_region <- datos %>%
-  group_by(bioculture, plant_name) %>%
+species_region_table <- data %>%
+  group_by(
+    bioculture,
+    plant_name
+  ) %>%
   summarise(
     n = n(),
-    dispuestos = sum(willing_bin == 1, na.rm = TRUE),
-    proporcion = mean(willing_bin, na.rm = TRUE),
+    willing = sum(
+      willing_bin == 1,
+      na.rm = TRUE
+    ),
+    proportion = mean(
+      willing_bin,
+      na.rm = TRUE
+    ),
     .groups = "drop"
   ) %>%
   mutate(
-    porcentaje = 100 * proporcion
+    percentage = 100 * proportion
   )
 
 write.csv(
-  tabla_especie_region,
-  "NUS_resultados/tablas/disposicion_especie_region.csv",
+  species_region_table,
+  "NUS_results/tables/willingness_species_region.csv",
   row.names = FALSE
 )
 
 # ---------------------------
-# 9. FIGURA 1: HEATMAP
+# 9. FIGURE 1: HEATMAP
 # ---------------------------
 p_heat <- ggplot(
-  tabla_especie_region,
-  aes(x = bioculture, y = fct_reorder(plant_name, porcentaje),
-      fill = porcentaje)
+  species_region_table,
+  aes(
+    x = bioculture,
+    y = fct_reorder(
+      plant_name,
+      percentage
+    ),
+    fill = percentage
+  )
 ) +
-  geom_tile(color = "white", linewidth = 0.5) +
-  geom_text(aes(label = sprintf("%.1f%%", porcentaje)),
-            size = 3.3, fontface = "plain") +
+  geom_tile(
+    color = "white",
+    linewidth = 0.5
+  ) +
+  geom_text(
+    aes(
+      label = sprintf(
+        "%.1f%%",
+        percentage
+      )
+    ),
+    size = 3.3,
+    fontface = "plain"
+  ) +
   scale_fill_viridis(
     option = "D",
     limits = c(0, 100),
@@ -289,25 +374,33 @@ p_heat <- ggplot(
   ) +
   labs(
     x = "Biocultural region",
-    y = "Species NUS",
+    y = "NUS species",
     title = ""
   ) +
-  theme_minimal(base_size = 12) +
+  theme_minimal(
+    base_size = 12
+  ) +
   theme(
     panel.grid = element_blank(),
-    axis.text.y = element_text(face = "italic"),
-    plot.title = element_text(face = "plain")
+    axis.text.y = element_text(
+      face = "italic"
+    ),
+    plot.title = element_text(
+      face = "plain"
+    )
   )
 
 ggsave(
-  "NUS_resultados/figuras/Figura_1_heatmap_adopcion.png",
-  p_heat, width = 8, height = 8, dpi = 400
+  "NUS_results/figures/Figure_1_adoption_heatmap.png",
+  p_heat,
+  width = 8,
+  height = 8,
+  dpi = 400
 )
-
 # ---------------------------
-# 10. VARIABLES DE BARRERAS Y FACILITADORES
+# 10. BARRIERS AND FACILITATING FACTORS
 # ---------------------------
-barreras <- c(
+barriers <- c(
   "perceived_as_weed",
   "lack_of_knowledge_benefits",
   "seed_scarcity",
@@ -320,7 +413,7 @@ barreras <- c(
   "limited_availability"
 )
 
-facilitadores <- c(
+facilitating_factors <- c(
   "nutritional_value",
   "medicinal_value",
   "climate_advantage",
@@ -331,73 +424,98 @@ facilitadores <- c(
   "ease_of_cultivation"
 )
 
-barreras <- barreras[barreras %in% names(datos)]
-facilitadores <- facilitadores[facilitadores %in% names(datos)]
+barriers <- barriers[barriers %in% names(data)]
+facilitating_factors <- facilitating_factors[
+  facilitating_factors %in% names(data)
+]
 
 # ---------------------------
-# 11. DISTRIBUCIÓN DE LOS ÍTEMS
+# 11. ITEM DISTRIBUTION
 # ---------------------------
-resumen_items <- bind_rows(
-  map_dfr(barreras, ~tibble(
+item_summary <- bind_rows(
+  map_dfr(barriers, ~tibble(
     variable = .x,
-    grupo = "Barrera",
-    n_unicos = n_distinct(datos[[.x]], na.rm = TRUE),
-    media = mean(datos[[.x]], na.rm = TRUE),
-    sd = sd(datos[[.x]], na.rm = TRUE)
+    group = "Barrier",
+    n_unique = n_distinct(data[[.x]], na.rm = TRUE),
+    mean = mean(data[[.x]], na.rm = TRUE),
+    sd = sd(data[[.x]], na.rm = TRUE)
   )),
-  map_dfr(facilitadores, ~tibble(
+
+  map_dfr(facilitating_factors, ~tibble(
     variable = .x,
-    grupo = "Facilitador",
-    n_unicos = n_distinct(datos[[.x]], na.rm = TRUE),
-    media = mean(datos[[.x]], na.rm = TRUE),
-    sd = sd(datos[[.x]], na.rm = TRUE)
+    group = "Facilitating factor",
+    n_unique = n_distinct(data[[.x]], na.rm = TRUE),
+    mean = mean(data[[.x]], na.rm = TRUE),
+    sd = sd(data[[.x]], na.rm = TRUE)
   ))
 )
 
 write.csv(
-  resumen_items,
-  "NUS_resultados/tablas/resumen_barreras_facilitadores.csv",
+  item_summary,
+  "NUS_results/tables/summary_barriers_facilitating_factors.csv",
   row.names = FALSE
 )
 
 # ---------------------------
-# 12. EFA ORDINAL: ANÁLISIS FACTORIAL EXPLORATORIO
+# 12. ORDINAL EFA:
+# EXPLORATORY FACTOR ANALYSIS
 # ---------------------------
-# Se usa matriz policórica porque los ítems son ordinales.
-# La solución de 3 factores es una solución inicial que debe
-# contrastarse con análisis paralelo.
+# A polychoric correlation matrix is used because
+# the items are ordinal.
+# The three-factor solution is an initial solution
+# that should be evaluated using parallel analysis.
 
-hacer_efa <- function(data, vars, nombre, nf = 3) {
+run_efa <- function(data, vars, name, nf = 3) {
 
   if (length(vars) < 3) return(NULL)
 
   X <- data %>%
     select(all_of(vars)) %>%
-    mutate(across(everything(), ~as.numeric(.x))) %>%
-    select(where(~n_distinct(.x, na.rm = TRUE) >= 2))
+    mutate(
+      across(
+        everything(),
+        ~as.numeric(.x)
+      )
+    ) %>%
+    select(
+      where(
+        ~n_distinct(.x, na.rm = TRUE) >= 2
+      )
+    )
 
   vars_ok <- names(X)
 
   if (length(vars_ok) < 3) return(NULL)
 
-  cor_poly <- psych::polychoric(X)$rho
+  poly_cor <- psych::polychoric(X)$rho
 
   png(
-    paste0("NUS_resultados/figuras/Parallel_", nombre, ".png"),
-    width = 1800, height = 1400, res = 220
+    paste0(
+      "NUS_results/figures/Parallel_",
+      name,
+      ".png"
+    ),
+    width = 1800,
+    height = 1400,
+    res = 220
   )
-  pa <- psych::fa.parallel(
-    cor_poly,
+
+  parallel_analysis <- psych::fa.parallel(
+    poly_cor,
     n.obs = nrow(X),
     fa = "fa",
     fm = "minres",
-    main = paste("Análisis paralelo:", nombre)
+    main = paste(
+      "Parallel analysis:",
+      name
+    )
   )
+
   dev.off()
 
-  # Solución inicial
+  # Initial factor solution
   efa <- psych::fa(
-    cor_poly,
+    poly_cor,
     nfactors = nf,
     n.obs = nrow(X),
     fm = "minres",
@@ -405,80 +523,135 @@ hacer_efa <- function(data, vars, nombre, nf = 3) {
   )
 
   write.csv(
-    as.data.frame(unclass(efa$loadings)),
-    paste0("NUS_resultados/tablas/cargas_", nombre, ".csv")
+    as.data.frame(
+      unclass(efa$loadings)
+    ),
+    paste0(
+      "NUS_results/tables/loadings_",
+      name,
+      ".csv"
+    )
   )
 
-  return(list(
-    datos = X,
-    rho = cor_poly,
-    paralelo = pa,
-    modelo = efa
-  ))
+  return(
+    list(
+      data = X,
+      rho = poly_cor,
+      parallel = parallel_analysis,
+      model = efa
+    )
+  )
 }
 
-efa_barreras <- hacer_efa(
-  datos, barreras, "barreras", nf = 3
+efa_barriers <- run_efa(
+  data,
+  barriers,
+  "barriers",
+  nf = 3
 )
 
-efa_facilitadores <- hacer_efa(
-  datos, facilitadores, "facilitadores", nf = 3
+efa_facilitating_factors <- run_efa(
+  data,
+  facilitating_factors,
+  "facilitating_factors",
+  nf = 3
 )
 
 # ---------------------------
-# 13. ÍNDICES ROBUSTOS DE BARRERAS/FACILITADORES
+# 13. ROBUST BARRIER AND
+# FACILITATING FACTOR INDICES
 # ---------------------------
-# Mientras se revisa la estructura factorial, se crean índices
-# estandarizados como análisis de sensibilidad.
-# Para barreras: valores mayores = mayor barrera.
-# Para facilitadores: valores mayores = mayor facilitador.
+# While the factor structure is being evaluated,
+# standardized indices are created as a sensitivity analysis.
+#
+# For barriers:
+# higher values = greater perceived barriers.
+#
+# For facilitating factors:
+# higher values = stronger perceived facilitating factors.
 
-datos <- datos %>%
+data <- data %>%
   mutate(
-    indice_barreras = if (length(barreras) > 0)
-      rowMeans(across(all_of(barreras)), na.rm = TRUE) else NA_real_,
-    indice_facilitadores = if (length(facilitadores) > 0)
-      rowMeans(across(all_of(facilitadores)), na.rm = TRUE) else NA_real_
+    barrier_index = if (
+      length(barriers) > 0
+    )
+      rowMeans(
+        across(all_of(barriers)),
+        na.rm = TRUE
+      )
+    else NA_real_,
+
+    facilitating_factor_index = if (
+      length(facilitating_factors) > 0
+    )
+      rowMeans(
+        across(all_of(facilitating_factors)),
+        na.rm = TRUE
+      )
+    else NA_real_
   )
+
 # ---------------------------
-# 14. ESTANDARIZACIÓN DE PREDICTORES CONTINUOS
+# 14. STANDARDIZATION OF
+# CONTINUOUS PREDICTORS
 # ---------------------------
-# Verificar variables requeridas
-variables_estandarizar <- c(
+
+# Check required variables
+variables_to_standardize <- c(
   "age",
   "family_size",
-  "indice_barreras",
-  "indice_facilitadores",
+  "barrier_index",
+  "facilitating_factor_index",
   "cultural_revaluation",
   "institutional_promotion",
   "has_interest_nus"
 )
 
-faltantes <- setdiff(variables_estandarizar, names(datos))
+missing_variables <- setdiff(
+  variables_to_standardize,
+  names(data)
+)
 
-if (length(faltantes) > 0) {
+if (length(missing_variables) > 0) {
   stop(
     paste(
-      "Las siguientes variables no existen en la base:",
-      paste(faltantes, collapse = ", ")
+      "The following variables are missing from the dataset:",
+      paste(
+        missing_variables,
+        collapse = ", "
+      )
     )
   )
 }
-# Estandarización Z
-datos <- datos %>%
+
+# Z-score standardization
+data <- data %>%
   mutate(
     age_z = as.numeric(scale(age)),
-    family_size_z = as.numeric(scale(family_size)),
-    indice_barreras_z = as.numeric(scale(indice_barreras)),
-    indice_facilitadores_z = as.numeric(scale(indice_facilitadores)),
-    cultural_revaluation_z = as.numeric(scale(cultural_revaluation)),
-    institutional_promotion_z = as.numeric(scale(institutional_promotion)),
-    has_interest_nus_z = as.numeric(scale(has_interest_nus))
+    family_size_z = as.numeric(
+      scale(family_size)
+    ),
+    barrier_index_z = as.numeric(
+      scale(barrier_index)
+    ),
+    facilitating_factor_index_z = as.numeric(
+      scale(facilitating_factor_index)
+    ),
+    cultural_revaluation_z = as.numeric(
+      scale(cultural_revaluation)
+    ),
+    institutional_promotion_z = as.numeric(
+      scale(institutional_promotion)
+    ),
+    has_interest_nus_z = as.numeric(
+      scale(has_interest_nus)
+    )
   )
+
 # ---------------------------
-# 15. DATASET PARA EL GLMM
+# 15. DATASET FOR GLMM
 # ---------------------------
-datos_modelo <- datos %>%
+model_data <- data %>%
   filter(
     !is.na(willing_bin),
     !is.na(name),
@@ -487,21 +660,36 @@ datos_modelo <- datos %>%
   ) %>%
   droplevels()
 
-cat("N observaciones GLMM:", nrow(datos_modelo), "\n")
-cat("Agricultores:", n_distinct(datos_modelo$name), "\n")
-cat("Especies:", n_distinct(datos_modelo$plant_name), "\n")
+cat(
+  "GLMM observations:",
+  nrow(model_data),
+  "\n"
+)
+
+cat(
+  "Farmers:",
+  n_distinct(model_data$name),
+  "\n"
+)
+
+cat(
+  "Species:",
+  n_distinct(model_data$plant_name),
+  "\n"
+)
 
 # ---------------------------
-# 16. GLMM PRINCIPAL
+# 16. MAIN GLMM
 # ---------------------------
 library(glmmTMB)
 library(dplyr)
 library(ggplot2)
 library(broom.mixed)
+
 # ---------------------------
-# 1. GLMM MODEL WITHOUT 'community'
+# GLMM WITHOUT 'COMMUNITY'
 # ---------------------------
-modelo_glmm_tmb <- glmmTMB(
+glmm_model <- glmmTMB(
   willing_bin ~
     bioculture +
     knows_bin +
@@ -512,23 +700,29 @@ modelo_glmm_tmb <- glmmTMB(
     has_interest_nus_z +
     cultural_revaluation_z +
     institutional_promotion_z +
-    indice_barreras_z +
-    indice_facilitadores_z +
+    barrier_index_z +
+    facilitating_factor_index_z +
     (1 | plant_name),
-  data = datos_modelo,
-  family = binomial(link = "logit")
+
+  data = model_data,
+
+  family = binomial(
+    link = "logit"
+  )
 )
 
-summary(modelo_glmm_tmb)
+summary(glmm_model)
 
-# Check Nakagawa's R2
-performance::r2_nakagawa(modelo_glmm_tmb)
+# Nakagawa's R2
+performance::r2_nakagawa(
+  glmm_model
+)
 
 # ---------------------------
-# 2. ODDS RATIOS AND 95% CI
+# 17. ODDS RATIOS AND 95% CI
 # ---------------------------
 or_glmm <- broom.mixed::tidy(
-  modelo_glmm_tmb,
+  glmm_model,
   effects = "fixed",
   conf.int = TRUE,
   exponentiate = TRUE
@@ -536,23 +730,40 @@ or_glmm <- broom.mixed::tidy(
 
 write.csv(
   or_glmm,
-  "NUS_resultados/tablas/GLMM_odds_ratios.csv",
+  "NUS_results/tables/GLMM_odds_ratios.csv",
   row.names = FALSE
 )
+
 print(or_glmm)
 
 # ---------------------------
-# 3. GLMM DIAGNOSTICS
+# 18. GLMM DIAGNOSTICS
 # ---------------------------
-print(performance::check_model(modelo_glmm_tmb))
-print(performance::check_singularity(modelo_glmm_tmb))
-
-# DHARMa residuals
-sim_glmm <- DHARMa::simulateResiduals(modelo_glmm_tmb, n = 1000)
-png(
-  "NUS_resultados/figuras/diagnostico_DHARMa_.png",
-  width = 1800, height = 1400, res = 220
+print(
+  performance::check_model(
+    glmm_model
+  )
 )
+
+print(
+  performance::check_singularity(
+    glmm_model
+  )
+)
+
+# DHARMa residual diagnostics
+sim_glmm <- DHARMa::simulateResiduals(
+  glmm_model,
+  n = 1000
+)
+
+png(
+  "NUS_results/figures/DHARMa_diagnostics.png",
+  width = 1800,
+  height = 1400,
+  res = 220
+)
+
 plot(sim_glmm)
 
 while (!is.null(dev.list())) {
@@ -560,26 +771,54 @@ while (!is.null(dev.list())) {
 }
 
 # ---------------------------
-# 4. FIGURE 2: FOREST PLOT
+# 19. FIGURE 2: FOREST PLOT
 # ---------------------------
 or_plot <- or_glmm %>%
-  filter(term != "(Intercept)") %>%
+  filter(
+    term != "(Intercept)"
+  ) %>%
   mutate(
     term = dplyr::recode(
       term,
-      "biocultureMojocoya" = "Biocultural region: Mojocoya vs. Jalq'a",
-      "knows_bin" = "Species knowledge",
-      "age_z" = "Age",
-      "sexMale" = "Sex: male",
-      "educationPrimary" = "Education: Primary",
-      "educationProfessional" = "Education: Professional",
-      "educationSecondary" = "Education: Secondary",
-      "has_garden_bin" = "Home garden ownership",
-      "has_interest_nus_z" = "Interest in NUS",
-      "cultural_revaluation_z" = "Cultural revaluation",
-      "institutional_promotion_z" = "Institutional promotion",
-      "indice_barreras_z" = "Perceived barriers",
-      "indice_facilitadores_z" = "Perceived facilitators"
+
+      "biocultureMojocoya" =
+        "Biocultural region: Mojocoya vs. Jalq'a",
+
+      "knows_bin" =
+        "Species knowledge",
+
+      "age_z" =
+        "Age",
+
+      "sexMale" =
+        "Sex: male",
+
+      "educationPrimary" =
+        "Education: primary",
+
+      "educationProfessional" =
+        "Education: professional",
+
+      "educationSecondary" =
+        "Education: secondary",
+
+      "has_garden_bin" =
+        "Home garden ownership",
+
+      "has_interest_nus_z" =
+        "Interest in NUS",
+
+      "cultural_revaluation_z" =
+        "Cultural revaluation",
+
+      "institutional_promotion_z" =
+        "Institutional promotion",
+
+      "barrier_index_z" =
+        "Perceived barriers",
+
+      "facilitating_factor_index_z" =
+        "Perceived facilitating factors"
     )
   )
 
@@ -587,7 +826,10 @@ p_forest <- ggplot(
   or_plot,
   aes(
     x = estimate,
-    y = reorder(term, estimate)
+    y = reorder(
+      term,
+      estimate
+    )
   )
 ) +
   geom_vline(
@@ -611,27 +853,33 @@ p_forest <- ggplot(
   labs(
     x = "Odds Ratio (log scale)",
     y = NULL,
-    title = "Determinants of willingness to cultivate NUS species"
+    title =
+      "Determinants of willingness to cultivate NUS species"
   ) +
-  theme_minimal(base_size = 12) +
+  theme_minimal(
+    base_size = 12
+  ) +
   theme(
-    plot.title = element_text(face = "bold")
+    plot.title = element_text(
+      face = "bold"
+    )
   )
 
 ggsave(
-  "NUS_resultados/figuras/Figura_2_forestplot_GLMM.png",
+  "NUS_results/figures/Figure_2_GLMM_forest_plot.png",
   p_forest,
   width = 9,
   height = 6,
   dpi = 400
 )
 # ---------------------------
-# 20. MODELO REGIÓN × ESPECIE
 # ---------------------------
-# Este modelo responde si la adopción potencial de cada especie
-# depende del contexto biocultural.
+# 20. REGION × SPECIES MODEL
+# ---------------------------
+# This model assesses whether the potential adoption of each species
+# depends on the biocultural context.
 
-modelo_interaccion <- glmer(
+region_species_model <- glmer(
   willing_bin ~
     bioculture * plant_name +
     knows_bin +
@@ -639,34 +887,49 @@ modelo_interaccion <- glmer(
     sex +
     has_garden_bin +
     has_interest_nus_z +
-    indice_barreras_z +
-    indice_facilitadores_z +
+    barrier_index_z +
+    facilitating_factor_index_z +
     (1 | name),
-  data = datos_modelo,
-  family = binomial(link = "logit"),
+
+  data = model_data,
+
+  family = binomial(
+    link = "logit"
+  ),
+
   control = glmerControl(
     optimizer = "bobyqa",
-    optCtrl = list(maxfun = 2e5)
+    optCtrl = list(
+      maxfun = 2e5
+    )
   )
 )
-summary(modelo_interaccion)
+
+summary(region_species_model)
+
+
 # ---------------------------
-# 21. COMPARACIÓN DE MODELOS
+# 21. MODEL COMPARISON
 # ---------------------------
 library(lmtest)
-class(modelo_glmm_tmb)
-class(modelo_interaccion)
 
-formula(modelo_glmm_tmb)
+class(glmm_model)
+class(region_species_model)
 
-formula(modelo_interaccion)
+formula(glmm_model)
+formula(region_species_model)
 
-lrtest(modelo_glmm_tmb, modelo_interaccion)
+lrtest(
+  glmm_model,
+  region_species_model
+)
+
+
 # ---------------------------
-# 22. PREDICCIONES MARGINALES
+# 22. MARGINAL PREDICTIONS
 # ---------------------------
 emm <- emmeans(
-  modelo_interaccion,
+  region_species_model,
   ~ bioculture | plant_name,
   type = "response"
 )
@@ -675,32 +938,46 @@ emm_df <- as.data.frame(emm)
 
 write.csv(
   emm_df,
-  "NUS_resultados/tablas/predicciones_region_especie.csv",
+  "NUS_results/tables/region_species_predictions.csv",
   row.names = FALSE
 )
 
+
 # ---------------------------
-# 23. FIGURA 3: PREDICCIONES REGIÓN × ESPECIE
+# 23. FIGURE 3:
+# REGION × SPECIES PREDICTIONS
 # ---------------------------
-p_interaccion <- ggplot(
+p_interaction <- ggplot(
   emm_df,
   aes(
     x = prob,
-    y = reorder(plant_name, prob),
+    y = reorder(
+      plant_name,
+      prob
+    ),
     color = bioculture
   )
 ) +
   geom_point(
-    position = position_dodge(width = 0.5),
+    position = position_dodge(
+      width = 0.5
+    ),
     size = 3
   ) +
   geom_errorbar(
-    aes(xmin = asymp.LCL, xmax = asymp.UCL),
-    position = position_dodge(width = 0.5),
+    aes(
+      xmin = asymp.LCL,
+      xmax = asymp.UCL
+    ),
+    position = position_dodge(
+      width = 0.5
+    ),
     width = 0.15
   ) +
   scale_x_continuous(
-    labels = percent_format(accuracy = 1),
+    labels = percent_format(
+      accuracy = 1
+    ),
     limits = c(0, 1)
   ) +
   labs(
@@ -709,24 +986,32 @@ p_interaccion <- ggplot(
     color = "Biocultural context",
     title = "Adjusted probability of adoption by biocultural context and species"
   ) +
-  theme_minimal(base_size = 12) +
+  theme_minimal(
+    base_size = 12
+  ) +
   theme(
-    axis.text.y = element_text(face = "italic"),
-    plot.title = element_text(face = "bold")
+    axis.text.y = element_text(
+      face = "italic"
+    ),
+    plot.title = element_text(
+      face = "bold"
+    )
   )
 
 ggsave(
-  "NUS_resultados/figuras/Figure_3_biocultural_context_species_interaction.png",
-  p_interaccion,
+  "NUS_results/figures/Figure_3_biocultural_context_species_interaction.png",
+  p_interaction,
   width = 9,
   height = 8,
   dpi = 400
 )
 
+
 # ---------------------------
-# 24. NÚMERO DE ESPECIES ACEPTADAS POR AGRICULTOR
+# 24. NUMBER OF ACCEPTED SPECIES
+# PER FARMER
 # ---------------------------
-amplitud <- datos %>%
+adoption_breadth <- data %>%
   group_by(name) %>%
   summarise(
     bioculture = first(bioculture),
@@ -737,47 +1022,88 @@ amplitud <- datos %>%
     family_size = first(family_size),
     has_garden_bin = first(has_garden_bin),
     has_interest_nus = first(has_interest_nus),
-    cultural_revaluation = first(cultural_revaluation),
-    institutional_promotion = first(institutional_promotion),
-    n_especies_evaluadas = n_distinct(plant_name),
-    n_especies_aceptadas = sum(willing_bin == 1, na.rm = TRUE),
-    proporcion_aceptacion = mean(willing_bin, na.rm = TRUE),
+    cultural_revaluation = first(
+      cultural_revaluation
+    ),
+    institutional_promotion = first(
+      institutional_promotion
+    ),
+
+    n_species_evaluated = n_distinct(
+      plant_name
+    ),
+
+    n_species_accepted = sum(
+      willing_bin == 1,
+      na.rm = TRUE
+    ),
+
+    acceptance_proportion = mean(
+      willing_bin,
+      na.rm = TRUE
+    ),
+
     .groups = "drop"
   )
+
 write.csv(
-  amplitud,
-  "NUS_resultados/tablas/amplitud_adopcion_agricultor.csv",
+  adoption_breadth,
+  "NUS_results/tables/farmer_adoption_breadth.csv",
   row.names = FALSE
 )
 
-# ---------------------------
-# 25. MODELO BETA-BINOMIAL PARA AMPLITUD
-# ---------------------------
-# Solo usar si el número de especies evaluadas es comparable
-# entre agricultores. El modelo utiliza éxitos/fracasos directamente.
 
-datos_amplitud <- amplitud %>%
-  filter(n_especies_evaluadas > 0) %>%
+# ---------------------------
+# 25. BETA-BINOMIAL MODEL
+# FOR ADOPTION BREADTH
+# ---------------------------
+# Use only if the number of evaluated species is reasonably
+# comparable across farmers. The model directly uses
+# the number of successes and failures.
+
+adoption_breadth_data <- adoption_breadth %>%
+  filter(
+    n_species_evaluated > 0
+  ) %>%
   mutate(
-    age_z = as.numeric(scale(age)),
-    family_size_z = as.numeric(scale(family_size)),
-    cultural_revaluation_z = as.numeric(scale(cultural_revaluation)),
-    institutional_promotion_z = as.numeric(scale(institutional_promotion)),
-    has_interest_nus_z = as.numeric(scale(has_interest_nus))
+    age_z = as.numeric(
+      scale(age)
+    ),
+
+    family_size_z = as.numeric(
+      scale(family_size)
+    ),
+
+    cultural_revaluation_z = as.numeric(
+      scale(cultural_revaluation)
+    ),
+
+    institutional_promotion_z = as.numeric(
+      scale(institutional_promotion)
+    ),
+
+    has_interest_nus_z = as.numeric(
+      scale(has_interest_nus
+    ))
   )
 
-head(datos_amplitud)
+head(
+  adoption_breadth_data
+)
+
 write.csv(
-  datos_amplitud,
-  "datos_amplitud.csv",
+  adoption_breadth_data,
+  "NUS_results/tables/adoption_breadth_data.csv",
   row.names = FALSE,
   fileEncoding = "UTF-8"
 )
 
-modelo_betabin <- glmmTMB(
+
+beta_binomial_model <- glmmTMB(
   cbind(
-    n_especies_aceptadas,
-    n_especies_evaluadas - n_especies_aceptadas
+    n_species_accepted,
+    n_species_evaluated -
+      n_species_accepted
   ) ~
     bioculture +
     age_z +
@@ -787,82 +1113,118 @@ modelo_betabin <- glmmTMB(
     has_interest_nus_z +
     cultural_revaluation_z +
     institutional_promotion_z,
-  family = betabinomial(link = "logit"),
-  data = datos_amplitud
+
+  family = betabinomial(
+    link = "logit"
+  ),
+
+  data = adoption_breadth_data
 )
 
-summary(modelo_betabin)
+summary(
+  beta_binomial_model
+)
 
 write.csv(
   broom.mixed::tidy(
-    modelo_betabin,
+    beta_binomial_model,
     effects = "fixed",
     conf.int = TRUE,
     exponentiate = TRUE
   ),
-  "NUS_resultados/tablas/betabinomial_amplitud_OR.csv",
+  "NUS_results/tables/beta_binomial_adoption_breadth_OR.csv",
   row.names = FALSE
 )
 
+
 # ---------------------------
-# 26. FIGURA 4: AMPLITUD DE ADOPCIÓN
+# 26. FIGURE 4:
+# ADOPTION BREADTH
 # ---------------------------
-p_amplitud <- ggplot(
-  amplitud,
+p_adoption_breadth <- ggplot(
+  adoption_breadth,
   aes(
     x = bioculture,
-    y = n_especies_aceptadas,
+    y = n_species_accepted,
     fill = bioculture
   )
 ) +
-  geom_boxplot(alpha = 0.75, width = 0.55,
-               outlier.shape = NA) +
+  geom_boxplot(
+    alpha = 0.75,
+    width = 0.55,
+    outlier.shape = NA
+  ) +
   geom_jitter(
     width = 0.08,
     alpha = 0.45,
     size = 2
   ) +
   scale_y_continuous(
-    breaks = 0:max(amplitud$n_especies_evaluadas, na.rm = TRUE)
+    breaks = 0:max(
+      adoption_breadth$n_species_evaluated,
+      na.rm = TRUE
+    )
   ) +
   labs(
-    x = "Biocultural region", # Traducido
-    y = "Number of accepted species", # Traducido
-    title = "" # Traducido
+    x = "Biocultural region",
+    y = "Number of accepted species",
+    title = "Adoption breadth of NUS species by biocultural region"
   ) +
-  theme_minimal(base_size = 12) +
+  theme_minimal(
+    base_size = 12
+  ) +
   theme(
     legend.position = "none",
-    plot.title = element_text(face = "bold")
+    plot.title = element_text(
+      face = "bold"
+    )
   )
 
 ggsave(
-  "NUS_resultados/figuras/Figure_4_adoption_breadth.png", # Nombre de archivo traducido
-  p_amplitud, width = 7, height = 6, dpi = 400
+  "NUS_results/figures/Figure_4_adoption_breadth.png",
+  p_adoption_breadth,
+  width = 7,
+  height = 6,
+  dpi = 400
 )
 
-# ---------------------------
-# 27. MODELO ORDINAL: INTERÉS EN NUS
-# ---------------------------
-# Variable Has_interest_NUS se trata como ordinal si conserva
-# la escala original de -3 a +3.
 
-datos_ordinal <- datos %>%
-  filter(!is.na(has_interest_nus)) %>%
+# ---------------------------
+# 27. ORDINAL MODEL:
+# INTEREST IN NUS
+# ---------------------------
+# The Has_interest_NUS variable is treated as ordinal
+# if the original -3 to +3 scale is retained.
+
+ordinal_data <- data %>%
+  filter(
+    !is.na(has_interest_nus)
+  ) %>%
   mutate(
-    interes_ord = ordered(
+    interest_ordinal = ordered(
       has_interest_nus,
-      levels = sort(unique(has_interest_nus))
+      levels = sort(
+        unique(has_interest_nus)
+      )
     ),
-    age_z = as.numeric(scale(age)),
-    family_size_z = as.numeric(scale(family_size))
+
+    age_z = as.numeric(
+      scale(age)
+    ),
+
+    family_size_z = as.numeric(
+      scale(family_size)
+    )
   )
 
-# Modelo ordinal fijo. Se evita aleatorio porque el tamaño
-# efectivo de agricultores es pequeño; puede ampliarse con clmm()
-# si la codificación de la escala está validada.
-modelo_ordinal <- ordinal::clm(
-  interes_ord ~
+
+# Fixed-effects ordinal model.
+# A random effect is not included because the effective
+# number of farmers is small. A CLMM can be considered
+# if the ordinal scale is properly validated.
+
+ordinal_model <- ordinal::clm(
+  interest_ordinal ~
     bioculture +
     age_z +
     sex +
@@ -870,62 +1232,158 @@ modelo_ordinal <- ordinal::clm(
     has_garden_bin +
     cultural_revaluation +
     institutional_promotion,
-  data = datos_ordinal,
+
+  data = ordinal_data,
+
   link = "logit",
+
   Hess = TRUE
 )
 
-summary(modelo_ordinal)
+summary(
+  ordinal_model
+)
+
 
 # ---------------------------
-# 28. EXPORTACIÓN A EXCEL
+# 28. EXPORT RESULTS TO EXCEL
 # ---------------------------
 wb <- createWorkbook()
 
-addWorksheet(wb, "Muestra")
-writeData(wb, "Muestra", resumen_muestra)
+addWorksheet(
+  wb,
+  "Sample"
+)
 
-addWorksheet(wb, "Especie_region")
-writeData(wb, "Especie_region", tabla_especie_region)
+writeData(
+  wb,
+  "Sample",
+  sample_summary
+)
 
-addWorksheet(wb, "GLMM_OR")
-writeData(wb, "GLMM_OR", or_glmm)
 
-addWorksheet(wb, "Interaccion")
-writeData(wb, "Interaccion", emm_df)
+addWorksheet(
+  wb,
+  "Species_region"
+)
 
-addWorksheet(wb, "Amplitud")
-writeData(wb, "Amplitud", amplitud)
+writeData(
+  wb,
+  "Species_region",
+  species_region_table
+)
 
-addWorksheet(wb, "Items")
-writeData(wb, "Items", resumen_items)
+
+addWorksheet(
+  wb,
+  "GLMM_OR"
+)
+
+writeData(
+  wb,
+  "GLMM_OR",
+  or_glmm
+)
+
+
+addWorksheet(
+  wb,
+  "Interaction"
+)
+
+writeData(
+  wb,
+  "Interaction",
+  emm_df
+)
+
+
+addWorksheet(
+  wb,
+  "Adoption_breadth"
+)
+
+writeData(
+  wb,
+  "Adoption_breadth",
+  adoption_breadth
+)
+
+
+addWorksheet(
+  wb,
+  "Items"
+)
+
+writeData(
+  wb,
+  "Items",
+  item_summary
+)
+
 
 saveWorkbook(
   wb,
-  "NUS_resultados/Resultados_NUS.xlsx",
+  "NUS_results/NUS_results.xlsx",
   overwrite = TRUE
 )
 
+
 # ---------------------------
-# 29. SESIÓN Y REPRODUCIBILIDAD
+# 29. SESSION INFORMATION
+# AND REPRODUCIBILITY
 # ---------------------------
 writeLines(
-  capture.output(sessionInfo()),
-  "NUS_resultados/sessionInfo.txt"
+  capture.output(
+    sessionInfo()
+  ),
+  "NUS_results/sessionInfo.txt"
 )
 
-# ---------------------------
-# 30. MENSAJE FINAL
-# ---------------------------
-cat("\n====================================================\n")
-cat("ANÁLISIS FINALIZADO\n")
-cat("Resultados guardados en: NUS_resultados/\n")
-cat("Figuras principales:\n")
-cat("  Figura_1_heatmap_adopcion.png\n")
-cat("  Figura_2_forestplot_GLMM.png\n")
-cat("  Figura_3_interaccion_region_especie.png\n")
-cat("  Figura_4_amplitud_adopcion.png\n")
-cat("IMPORTANTE: revisar Isaño y edades inconsistentes antes\n")
-cat("de considerar los resultados como definitivos.\n")
-cat("====================================================\n")
 
+# ---------------------------
+# 30. FINAL MESSAGE
+# ---------------------------
+cat(
+  "\n====================================================\n"
+)
+
+cat(
+  "ANALYSIS COMPLETED\n"
+)
+
+cat(
+  "Results saved in: NUS_results/\n"
+)
+
+cat(
+  "Main figures:\n"
+)
+
+cat(
+  "  Figure_1_adoption_heatmap.png\n"
+)
+
+cat(
+  "  Figure_2_GLMM_forest_plot.png\n"
+)
+
+cat(
+  "  Figure_3_biocultural_context_species_interaction.png\n"
+)
+
+cat(
+  "  Figure_4_adoption_breadth.png\n"
+)
+
+cat(
+  "IMPORTANT: Review Isaño and inconsistent age values\n"
+)
+
+cat(
+  "before considering the results as final.\n"
+)
+
+cat(
+  "====================================================\n"
+)
