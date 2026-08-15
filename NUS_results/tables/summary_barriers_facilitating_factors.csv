@@ -1,0 +1,19 @@
+"variable","group","n_unique","mean","sd"
+"perceived_as_weed","Barrier",7,0.432222222222222,1.11460401422013
+"lack_of_knowledge_benefits","Barrier",7,0.0377777777777778,0.954303848298989
+"seed_scarcity","Barrier",7,-0.283333333333333,1.17005176577534
+"loss_of_knowledge","Barrier",7,0,0.965477513881551
+"loss_of_culinary_tradition","Barrier",7,0.108888888888889,1.02761042774006
+"sensory_rejection","Barrier",7,0.113333333333333,1.06853053692564
+"climate_limitation","Barrier",7,-0.354444444444444,1.16775943313867
+"water_scarcity","Barrier",7,-0.218888888888889,1.01044538516729
+"space_limitation","Barrier",7,0.33,1.10966529341229
+"limited_availability","Barrier",7,0.266666666666667,1.625711104784
+"nutritional_value","Facilitating factor",7,1.05222222222222,1.36316779026729
+"medicinal_value","Facilitating factor",7,0.396666666666667,1.33048035518318
+"climate_advantage","Facilitating factor",7,0.774444444444444,1.38850045241804
+"economic_savings","Facilitating factor",7,0.892222222222222,1.27809714805314
+"commercial_opportunity","Facilitating factor",7,0.76,1.27618731386374
+"biological_pest_control","Facilitating factor",7,0.357777777777778,1.20657982672503
+"soil_improvement","Facilitating factor",7,0.624444444444444,1.23404713332888
+"ease_of_cultivation","Facilitating factor",7,1.12777777777778,1.39453308716843
